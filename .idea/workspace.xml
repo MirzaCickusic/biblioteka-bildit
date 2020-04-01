@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f270296-1339-4c16-9863-54596be12202" name="Default Changelist" comment="" />
+    <list default="true" id="38ef1f87-7de6-492e-a687-268378c4021a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FavoritesManager">
+    <favorites_list name="Biblioteka" />
   </component>
-  <component name="ProjectId" id="1ZwD1EPBmmJ4LJ75Fg6nPI8UIMA" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZWen7biobF3zeum6c4Sh5Fv2zJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -19,23 +26,97 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Biblioteka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8f270296-1339-4c16-9863-54596be12202" name="Default Changelist" comment="" />
-      <created>1585741046329</created>
+      <changelist id="38ef1f87-7de6-492e-a687-268378c4021a" name="Default Changelist" comment="" />
+      <created>1584959441781</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585741046329</updated>
+      <updated>1584959441781</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="324" key="com.intellij.ide.util.TipDialog" timestamp="1585741064478">
+    <state x="206" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584962167393">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="446" y="324" key="com.intellij.ide.util.TipDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1585741064478" />
+    <state x="206" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1584962167393" />
+    <state x="481" y="247" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1584973583687">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="481" y="247" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1584973583687" />
+    <state x="531" y="243" key="FileChooserDialogImpl" timestamp="1585302188968">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="531" y="243" key="FileChooserDialogImpl/0.0.1500.1000@0.0.1500.1000" timestamp="1585302188968" />
+    <state width="1457" height="269" key="GridCell.Tab.0.bottom" timestamp="1585566317110">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1457" height="269" key="GridCell.Tab.0.bottom/0.0.1500.1000@0.0.1500.1000" timestamp="1585566317110" />
+    <state width="1457" height="269" key="GridCell.Tab.0.center" timestamp="1585566317110">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1457" height="269" key="GridCell.Tab.0.center/0.0.1500.1000@0.0.1500.1000" timestamp="1585566317110" />
+    <state width="1457" height="269" key="GridCell.Tab.0.left" timestamp="1585566317110">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1457" height="269" key="GridCell.Tab.0.left/0.0.1500.1000@0.0.1500.1000" timestamp="1585566317110" />
+    <state width="1457" height="269" key="GridCell.Tab.0.right" timestamp="1585566317110">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1457" height="269" key="GridCell.Tab.0.right/0.0.1500.1000@0.0.1500.1000" timestamp="1585566317110" />
+    <state width="1457" height="332" key="GridCell.Tab.1.bottom" timestamp="1585420893110">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1457" height="332" key="GridCell.Tab.1.bottom/0.0.1500.1000@0.0.1500.1000" timestamp="1585420893110" />
+    <state width="1457" height="332" key="GridCell.Tab.1.center" timestamp="1585420893110">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1457" height="332" key="GridCell.Tab.1.center/0.0.1500.1000@0.0.1500.1000" timestamp="1585420893110" />
+    <state width="1457" height="332" key="GridCell.Tab.1.left" timestamp="1585420893109">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1457" height="332" key="GridCell.Tab.1.left/0.0.1500.1000@0.0.1500.1000" timestamp="1585420893109" />
+    <state width="1457" height="332" key="GridCell.Tab.1.right" timestamp="1585420893110">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1457" height="332" key="GridCell.Tab.1.right/0.0.1500.1000@0.0.1500.1000" timestamp="1585420893110" />
+    <state x="446" y="324" key="com.intellij.ide.util.TipDialog" timestamp="1585560970768">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="446" y="324" key="com.intellij.ide.util.TipDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1585560970768" />
+    <state x="175" y="121" key="new project wizard" timestamp="1585302190621">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="175" y="121" key="new project wizard/0.0.1500.1000@0.0.1500.1000" timestamp="1585302190621" />
+    <state x="457" y="129" key="refactoring.ChangeSignatureDialog" timestamp="1585050662660">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="457" y="129" key="refactoring.ChangeSignatureDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1585050662660" />
+    <state x="407" y="237" key="run.anything.popup" timestamp="1585398850616">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="407" y="237" key="run.anything.popup/0.0.1500.1000@0.0.1500.1000" timestamp="1585398850616" />
+    <state x="412" y="222" width="672" height="678" key="search.everywhere.popup" timestamp="1585562762261">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="412" y="222" width="672" height="678" key="search.everywhere.popup/0.0.1500.1000@0.0.1500.1000" timestamp="1585562762261" />
   </component>
 </project>
