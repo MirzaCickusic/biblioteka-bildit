@@ -1,6 +1,4 @@
 import java.util.Date;
-import java.util.Timer;
-import java.util.TimerTask;
 
 public class Statistika {
 
@@ -8,6 +6,10 @@ public class Statistika {
     private int brojKnjige;
     private Date date;
     private int brojDana;
+
+    public Statistika() {
+
+    }
 
 
     public Statistika(int brojRacuna, int brojKnjige, int brojDana) {
@@ -27,7 +29,7 @@ public class Statistika {
         return brojKnjige;
     }
 
-    public boolean getStatusKnjige(){
+    public boolean getStatusKnjige() {
         Knjiga knjiga = new Knjiga();
         boolean statusKnjige = knjiga.getStatusKnjige();
         return statusKnjige;

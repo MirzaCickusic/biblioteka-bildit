@@ -19,7 +19,7 @@ public class Racun {
         this.datum = new java.util.Date();
 
         brojPosudjenihKnjiga = this.brojKnjiga + brojKnjiga;
-        if (brojPosudjenihKnjiga > 3) {
+        if (brojPosudjenihKnjiga > 4) {
             System.out.println("Dozvoljeno je imati ne više od 3 posuđene knjige! Promjenite vaš unos.");
         }
 

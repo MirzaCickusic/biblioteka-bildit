@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38ef1f87-7de6-492e-a687-268378c4021a" name="Default Changelist" comment="" />
+    <list default="true" id="38ef1f87-7de6-492e-a687-268378c4021a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Biblioteka/Biblioteka.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Biblioteka/Biblioteka.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Biblioteka/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Biblioteka/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Biblioteka/Posudbe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Biblioteka/Statistika.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Biblioteka/Statistika.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Biblioteka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Biblioteka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Racun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Racun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Statistika.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +28,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZWen7biobF3zeum6c4Sh5Fv2zJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,6 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../biblioteka-bildit" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -62,26 +77,26 @@
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state x="481" y="247" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1584973583687" />
-    <state x="531" y="243" key="FileChooserDialogImpl" timestamp="1585302188968">
+    <state x="531" y="243" key="FileChooserDialogImpl" timestamp="1585742520705">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="531" y="243" key="FileChooserDialogImpl/0.0.1500.1000@0.0.1500.1000" timestamp="1585302188968" />
-    <state width="1457" height="269" key="GridCell.Tab.0.bottom" timestamp="1585566317110">
+    <state x="531" y="243" key="FileChooserDialogImpl/0.0.1500.1000@0.0.1500.1000" timestamp="1585742520705" />
+    <state width="1457" height="269" key="GridCell.Tab.0.bottom" timestamp="1585819203437">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state width="1457" height="269" key="GridCell.Tab.0.bottom/0.0.1500.1000@0.0.1500.1000" timestamp="1585566317110" />
-    <state width="1457" height="269" key="GridCell.Tab.0.center" timestamp="1585566317110">
+    <state width="1457" height="269" key="GridCell.Tab.0.bottom/0.0.1500.1000@0.0.1500.1000" timestamp="1585819203437" />
+    <state width="1457" height="269" key="GridCell.Tab.0.center" timestamp="1585819203437">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state width="1457" height="269" key="GridCell.Tab.0.center/0.0.1500.1000@0.0.1500.1000" timestamp="1585566317110" />
-    <state width="1457" height="269" key="GridCell.Tab.0.left" timestamp="1585566317110">
+    <state width="1457" height="269" key="GridCell.Tab.0.center/0.0.1500.1000@0.0.1500.1000" timestamp="1585819203437" />
+    <state width="1457" height="269" key="GridCell.Tab.0.left" timestamp="1585819203437">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state width="1457" height="269" key="GridCell.Tab.0.left/0.0.1500.1000@0.0.1500.1000" timestamp="1585566317110" />
-    <state width="1457" height="269" key="GridCell.Tab.0.right" timestamp="1585566317110">
+    <state width="1457" height="269" key="GridCell.Tab.0.left/0.0.1500.1000@0.0.1500.1000" timestamp="1585819203437" />
+    <state width="1457" height="269" key="GridCell.Tab.0.right" timestamp="1585819203437">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state width="1457" height="269" key="GridCell.Tab.0.right/0.0.1500.1000@0.0.1500.1000" timestamp="1585566317110" />
+    <state width="1457" height="269" key="GridCell.Tab.0.right/0.0.1500.1000@0.0.1500.1000" timestamp="1585819203437" />
     <state width="1457" height="332" key="GridCell.Tab.1.bottom" timestamp="1585420893110">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
@@ -98,10 +113,10 @@
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state width="1457" height="332" key="GridCell.Tab.1.right/0.0.1500.1000@0.0.1500.1000" timestamp="1585420893110" />
-    <state x="446" y="324" key="com.intellij.ide.util.TipDialog" timestamp="1585560970768">
+    <state x="446" y="324" key="com.intellij.ide.util.TipDialog" timestamp="1585812112187">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="446" y="324" key="com.intellij.ide.util.TipDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1585560970768" />
+    <state x="446" y="324" key="com.intellij.ide.util.TipDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1585812112187" />
     <state x="175" y="121" key="new project wizard" timestamp="1585302190621">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
@@ -110,13 +125,13 @@
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state x="457" y="129" key="refactoring.ChangeSignatureDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1585050662660" />
-    <state x="407" y="237" key="run.anything.popup" timestamp="1585398850616">
+    <state x="407" y="240" width="672" height="677" key="run.anything.popup" timestamp="1585817008819">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="407" y="237" key="run.anything.popup/0.0.1500.1000@0.0.1500.1000" timestamp="1585398850616" />
-    <state x="412" y="222" width="672" height="678" key="search.everywhere.popup" timestamp="1585562762261">
+    <state x="407" y="240" width="672" height="677" key="run.anything.popup/0.0.1500.1000@0.0.1500.1000" timestamp="1585817008819" />
+    <state x="412" y="224" width="672" height="678" key="search.everywhere.popup" timestamp="1585813841906">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="412" y="222" width="672" height="678" key="search.everywhere.popup/0.0.1500.1000@0.0.1500.1000" timestamp="1585562762261" />
+    <state x="412" y="224" width="672" height="678" key="search.everywhere.popup/0.0.1500.1000@0.0.1500.1000" timestamp="1585813841906" />
   </component>
 </project>
